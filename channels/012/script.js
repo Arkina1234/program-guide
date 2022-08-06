@@ -19,7 +19,7 @@ class Channel12 extends Channel {
         this.player = new YT.Player('ytplayer', {
             height: '360',
             width: '425',
-            videoId: '9NSVU4Gv_wA',
+            videoId: 'ilYrPH_lJEo',
             events: {
             'onReady': this.onPlayerReady,
             'onStateChange': this.onPlayerStateChange
